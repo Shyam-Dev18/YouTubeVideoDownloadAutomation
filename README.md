@@ -141,15 +141,11 @@ python main.py
 ## 🛠️ Setup & Usage Instructions
 1. **Clone the Repository**
 ```bash
-Copy
-Edit
 git clone https://github.com/your-username/your-project.git
 cd your-project
 ```
 2. **Install Required Packages**
 ```bash
-Copy
-Edit
 pip install -r requirements.txt
 ```
 ## Running the Project

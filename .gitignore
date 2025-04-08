@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# FFmpeg binaries (if not version-controlled)
+#ffmpeg/
+
+# Credentials
+*.json
+
+# Downloads or large files
+
+*.env
+
+# Jupyter Notebooks (if used)
+*.ipynb_checkpoints
+
+# Logs (if any)
+*.log
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
